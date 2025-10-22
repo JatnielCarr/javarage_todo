@@ -2,8 +2,8 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:javerage_todos/app/app.dart';
 import 'package:javerage_todos/counter/counter.dart';
+import 'package:javerage_todos/features/app.dart';
 
 void main() {
   group('App', () {
